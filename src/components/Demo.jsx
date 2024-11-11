@@ -127,7 +127,7 @@ const Demo = () => {
         {isFetching ? (
           <img src={loader} alt='loader' className='w-32 h-32 object-contain' />
         ) : error ? (
-          <p className='font-inter font-bold text-white text-center'>
+          <p className='font-inter font-bold text-white text-center light_mode'>
             Well, that wasn&apos;t supposed to happen <br />{' '}
             <span className='font-satoshi font-normal text-gray-300'>
               {error?.data?.error}
