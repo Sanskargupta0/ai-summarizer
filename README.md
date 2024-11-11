@@ -1,4 +1,4 @@
-# [AI Summarizer](https://sanskarguptadev.vercel.app/) &middot; [![Author Sanskar Gupta](https://img.shields.io/badge/Author-Sanskar Gupta-%3C%3E)](https://www.linkedin.com/in/sanskar-gupta-12476423b/)
+# [AI Summarizer](https://sanskarguptadev.vercel.app/) &middot; [![Author Sanskar Gupta](https://img.shields.io/badge/Author-Sanskar-%3C%3E)](https://www.linkedin.com/in/sanskar-gupta-12476423b/)
 
 This is an app to simplify reading by condensing lengthy articles into concise summaries. User just need to paste the article URL and get the summary of that article transformed by AI.
 
